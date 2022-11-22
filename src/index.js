@@ -6,7 +6,7 @@ const app = express()
 app.get('/produtos', (req, res, next) => {
   res.send([
     { nome: 'Notebook', preco: 123.32 },
-    { iphone: 'Iphone', preco: 400.00 }
+    { nome: 'Iphone', preco: 400.00 }
   ])
 });
 
