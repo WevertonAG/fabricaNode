@@ -80,7 +80,7 @@
   ~~~
   npm start
   ~~~
-  e nossa aplicação estará ativa na porta inidicada!.
+  e nossa aplicação estará ativa na porta indicada!
 
 
   
